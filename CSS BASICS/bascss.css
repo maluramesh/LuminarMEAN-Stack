@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+    font-style: italic;
+    text-align-last: center;
+}
+div{
+    color:green;
+    border-width: thick;
+    border-style: solid;
+    border-color: mediumblue;
+    background-color: orange;
+}
+#one{
+    background-color: orchid;
+    color: purple;
+}
